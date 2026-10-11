@@ -1,0 +1,15 @@
+[project]
+name = "brownian-motion"
+version = "0.1.0"
+description = "HSVによる重心追跡とブラウン運動の解析"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy",
+    "opencv-python",
+    "matplotlib",
+    "Pillow",
+]
+
+[tool.uv]
+package = false
