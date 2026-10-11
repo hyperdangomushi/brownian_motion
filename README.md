@@ -6,3 +6,4 @@
 uv sync
 uv run main.py
 ```
+頑張ってリファクタリングしました！
